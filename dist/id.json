@@ -1,0 +1,309 @@
+{
+  "slug": "awesome-ia-sala-de-aula",
+  "language": "id",
+  "title": "Awesome IA na sala de aula",
+  "description": "AI untuk guru: asisten, usia minimum dan privasi masing-masing, serta aturan pendidikan untuk diperiksa.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Asisten AI",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaaula-chatgpt",
+          "description": "Asisten dari OpenAI, dengan paket gratis dan berbayar.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaaula-claude",
+          "description": "Asisten dari Anthropic, dengan paket gratis dan berbayar.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaaula-copilot",
+          "description": "Asisten dari Microsoft, juga ada di dalam Windows dan Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaaula-gemini",
+          "description": "Asisten dari Google, juga ada di dalam Gmail dan Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Privasi di AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaaula-anthropic-onde-mudar-o-treino",
+          "description": "Cara mencegah percakapan Anda di Claude dipakai untuk melatih model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaaula-google-atividade-do-gemini",
+          "description": "Cara mematikan riwayat aktivitas Gemini dan apa dampaknya.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaaula-microsoft-controles-de-privacidad",
+          "description": "Tempat kontrol privasi dan pelatihan Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaaula-openai-controles-de-dados",
+          "description": "Cara mencegah percakapan di ChatGPT dipakai untuk melatih model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaaula-whatsapp-privacidade",
+          "description": "Yang dikatakan WhatsApp tentang privasi, termasuk saat bercakap dengan Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "termos",
+      "title": "Ketentuan, usia, dan penggunaan bersama siswa",
+      "items": [
+        {
+          "name": "Gemini para crianças no Family Link",
+          "url": "https://support.google.com/gemini/answer/16109150?hl=en",
+          "link": "https://go.mymarketing.click/iaaula-gemini-para-criancas-no-family-li",
+          "description": "Cara kerja Gemini di akun yang diawasi keluarga.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos da conta pessoal da Anthropic",
+          "url": "https://www.anthropic.com/legal/consumer-terms",
+          "link": "https://go.mymarketing.click/iaaula-termos-da-conta-pessoal-da-anthro",
+          "description": "Ketentuan Claude untuk pengguna perorangan, dengan usia minimum.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos das IAs da Meta no Brasil",
+          "url": "https://www.facebook.com/legal/br-ai-terms",
+          "link": "https://go.mymarketing.click/iaaula-termos-das-ias-da-meta-no-brasil",
+          "description": "Ketentuan Meta AI untuk pengguna di Brasil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos de uso da OpenAI",
+          "url": "https://openai.com/policies/row-terms-of-use/",
+          "link": "https://go.mymarketing.click/iaaula-termos-de-uso-da-openai",
+          "description": "Ketentuan ChatGPT, dengan usia minimum.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do Copilot",
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+          "link": "https://go.mymarketing.click/iaaula-termos-do-copilot",
+          "description": "Ketentuan penggunaan Copilot untuk perorangan.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas",
+      "title": "Aturan pendidikan",
+      "items": [
+        {
+          "name": "BNCC",
+          "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+          "link": "https://go.mymarketing.click/iaaula-bncc",
+          "description": "Base Nacional Comum Curricular, dalam dokumen MEC.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ECA",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+          "link": "https://go.mymarketing.click/iaaula-eca",
+          "description": "Estatuto da Criança e do Adolescente.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LDB",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm",
+          "link": "https://go.mymarketing.click/iaaula-ldb",
+          "description": "Lei de Diretrizes e Bases da Educação.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Brasileira de Inclusão",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+          "link": "https://go.mymarketing.click/iaaula-lei-brasileira-de-inclusao",
+          "description": "Estatuto da Pessoa com Deficiência, dasar kegiatan adaptasi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do piso do magistério",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11738.htm",
+          "link": "https://go.mymarketing.click/iaaula-lei-do-piso-do-magisterio",
+          "description": "Lei 11.738/2008, yang menetapkan upah minimum guru.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Perlindungan data",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaaula-lgpd",
+          "description": "Lei Geral de Proteção de Dados, teks kompilasi dari Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaaula-anpd",
+          "description": "Autoridade Nacional de Proteção de Dados, dengan panduan dan peraturan LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Buku dan paket",
+      "items": [
+        {
+          "name": "IA na sala de aula (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/iaaula-ia-na-sala-de-aula-livro",
+          "description": "Volume 7 seri O Novo Básico, berisi tugas profesi yang dikerjakan dengan AI sungguhan dan setiap fakta disertai sumber.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula/kit",
+          "link": "https://go.mymarketing.click/iaaula-ia-na-sala-de-aula-o-kit-online",
+          "description": "Permintaan siap pakai, daftar hal yang perlu diperiksa, dan sumber buku, dibuka di situs.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

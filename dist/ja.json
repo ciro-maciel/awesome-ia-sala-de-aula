@@ -1,0 +1,309 @@
+{
+  "slug": "awesome-ia-sala-de-aula",
+  "language": "ja",
+  "title": "Awesome IA na sala de aula",
+  "description": "日本の教師のためのAI：アシスタント、各サービスの最低年齢とプライバシー、確認すべき教育の規則。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AIアシスタント",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaaula-chatgpt",
+          "description": "OpenAIのアシスタント。無料プランと有料プランあり。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaaula-claude",
+          "description": "Anthropicのアシスタント。無料プランと有料プランあり。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaaula-copilot",
+          "description": "Microsoftのアシスタント。Windows や Office の中でも使えます。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaaula-gemini",
+          "description": "Googleのアシスタント。Gmail や Google ドキュメントの中でも使えます。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AIのプライバシー",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaaula-anthropic-onde-mudar-o-treino",
+          "description": "Claudeの会話がモデルの学習に使われないようにする方法。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaaula-google-atividade-do-gemini",
+          "description": "Geminiのアクティビティ履歴を無効にする方法と、その影響。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaaula-microsoft-controles-de-privacidad",
+          "description": "Copilotのプライバシーと学習に関する設定の場所。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaaula-openai-controles-de-dados",
+          "description": "ChatGPTの会話がモデルの学習に使われないようにする方法。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaaula-whatsapp-privacidade",
+          "description": "WhatsAppのプライバシーについての説明。Meta AIと会話する場合も含みます。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "termos",
+      "title": "利用規約、年齢、生徒との利用",
+      "items": [
+        {
+          "name": "Gemini para crianças no Family Link",
+          "url": "https://support.google.com/gemini/answer/16109150?hl=en",
+          "link": "https://go.mymarketing.click/iaaula-gemini-para-criancas-no-family-li",
+          "description": "家族が管理するアカウントでのGeminiの動作。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos da conta pessoal da Anthropic",
+          "url": "https://www.anthropic.com/legal/consumer-terms",
+          "link": "https://go.mymarketing.click/iaaula-termos-da-conta-pessoal-da-anthro",
+          "description": "個人向けClaudeの利用規約と最低年齢。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos das IAs da Meta no Brasil",
+          "url": "https://www.facebook.com/legal/br-ai-terms",
+          "link": "https://go.mymarketing.click/iaaula-termos-das-ias-da-meta-no-brasil",
+          "description": "ブラジルにいる人向けのMeta AIの利用規約。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos de uso da OpenAI",
+          "url": "https://openai.com/policies/row-terms-of-use/",
+          "link": "https://go.mymarketing.click/iaaula-termos-de-uso-da-openai",
+          "description": "ChatGPTの利用規約と最低年齢。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do Copilot",
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+          "link": "https://go.mymarketing.click/iaaula-termos-do-copilot",
+          "description": "個人向けCopilotの利用規約。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas",
+      "title": "教育の規範",
+      "items": [
+        {
+          "name": "BNCC",
+          "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+          "link": "https://go.mymarketing.click/iaaula-bncc",
+          "description": "MECの文書による国の共通基礎カリキュラム（BNCC）。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ECA",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+          "link": "https://go.mymarketing.click/iaaula-eca",
+          "description": "児童・青少年法（ECA）。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LDB",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm",
+          "link": "https://go.mymarketing.click/iaaula-ldb",
+          "description": "教育指針と基本法（LDB）。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Brasileira de Inclusão",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+          "link": "https://go.mymarketing.click/iaaula-lei-brasileira-de-inclusao",
+          "description": "障害のある人のための法律（Estatuto da Pessoa com Deficiência）、適応活動の基礎。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do piso do magistério",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11738.htm",
+          "link": "https://go.mymarketing.click/iaaula-lei-do-piso-do-magisterio",
+          "description": "教師の最低賃金を定める法律 11.738/2008。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "データ保護",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaaula-lgpd",
+          "description": "Planaltoの編集済みテキストによる一般データ保護法（LGPD）。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaaula-anpd",
+          "description": "国家データ保護庁（ANPD）。LGPDに関するガイドと規則。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "本とキット",
+      "items": [
+        {
+          "name": "IA na sala de aula (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/iaaula-ia-na-sala-de-aula-livro",
+          "description": "『O Novo Básico』シリーズの第7巻。実際のAIで行う職務と、事実ごとの出典つき。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula/kit",
+          "link": "https://go.mymarketing.click/iaaula-ia-na-sala-de-aula-o-kit-online",
+          "description": "すぐ使える依頼文、確認リスト、本の出典をサイトで開く。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

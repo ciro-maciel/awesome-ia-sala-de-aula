@@ -1,0 +1,309 @@
+{
+  "slug": "awesome-ia-sala-de-aula",
+  "language": "tr",
+  "title": "Awesome IA na sala de aula",
+  "description": "Öğretmenler için yapay zekâ: asistanlar, asgari yaş ve her birinin gizlilik politikası, ayrıca kontrol edilmesi gereken eğitim mevzuatı.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Yapay Zeka Asistanları",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaaula-chatgpt",
+          "description": "OpenAI'nin asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaaula-claude",
+          "description": "Anthropic'in asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaaula-copilot",
+          "description": "Microsoft'un asistanı, Windows ve Office içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaaula-gemini",
+          "description": "Google'ın asistanı, Gmail ve Google Docs içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Yapay Zekalarda Gizlilik",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaaula-anthropic-onde-mudar-o-treino",
+          "description": "Claude'daki konuşmalarınızın model eğitiminde kullanılmasını nasıl engelleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaaula-google-atividade-do-gemini",
+          "description": "Gemini'nin etkinlik geçmişini nasıl kapatabileceğiniz ve bunun neyi değiştirdiği.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaaula-microsoft-controles-de-privacidad",
+          "description": "Copilot'un gizlilik ve eğitim denetimlerinin nerede bulunduğu.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaaula-openai-controles-de-dados",
+          "description": "ChatGPT'deki konuşmaların model eğitiminde kullanılmasını nasıl engelleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaaula-whatsapp-privacidade",
+          "description": "WhatsApp'ın gizlilik konusunda ne dediği, Meta AI ile konuşulduğunda da dahil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "termos",
+      "title": "Şartlar, Yaş ve Öğrencilerle Kullanım",
+      "items": [
+        {
+          "name": "Gemini para crianças no Family Link",
+          "url": "https://support.google.com/gemini/answer/16109150?hl=en",
+          "link": "https://go.mymarketing.click/iaaula-gemini-para-criancas-no-family-li",
+          "description": "Gemini'nin aile denetimindeki hesaplarda nasıl çalıştığı.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos da conta pessoal da Anthropic",
+          "url": "https://www.anthropic.com/legal/consumer-terms",
+          "link": "https://go.mymarketing.click/iaaula-termos-da-conta-pessoal-da-anthro",
+          "description": "Claude'un bireyler için kullanım şartları, asgari yaşıyla birlikte.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos das IAs da Meta no Brasil",
+          "url": "https://www.facebook.com/legal/br-ai-terms",
+          "link": "https://go.mymarketing.click/iaaula-termos-das-ias-da-meta-no-brasil",
+          "description": "Meta AI'ın Brezilya'da olanlar için kullanım şartları.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos de uso da OpenAI",
+          "url": "https://openai.com/policies/row-terms-of-use/",
+          "link": "https://go.mymarketing.click/iaaula-termos-de-uso-da-openai",
+          "description": "ChatGPT'nin kullanım şartları, asgari yaşıyla birlikte.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do Copilot",
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+          "link": "https://go.mymarketing.click/iaaula-termos-do-copilot",
+          "description": "Copilot'un bireyler için kullanım şartları.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas",
+      "title": "Eğitim Mevzuatı",
+      "items": [
+        {
+          "name": "BNCC",
+          "url": "http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+          "link": "https://go.mymarketing.click/iaaula-bncc",
+          "description": "Brezilya Ulusal Ortak Müfredat Temeli, MEC belgesinde.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ECA",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+          "link": "https://go.mymarketing.click/iaaula-eca",
+          "description": "Çocuk ve Ergen Statüsü.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LDB",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm",
+          "link": "https://go.mymarketing.click/iaaula-ldb",
+          "description": "Eğitimin Temel Yönergeleri ve Çerçeve Yasası.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Brasileira de Inclusão",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+          "link": "https://go.mymarketing.click/iaaula-lei-brasileira-de-inclusao",
+          "description": "Engelli Bireylerin Statüsü, uyarlanmış etkinliğin temeli.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do piso do magistério",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11738.htm",
+          "link": "https://go.mymarketing.click/iaaula-lei-do-piso-do-magisterio",
+          "description": "11.738/2008 sayılı Yasa, öğretmen asgari ücretini belirler.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Veri Koruma",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaaula-lgpd",
+          "description": "Planalto'nun derlenmiş metninde Genel Veri Koruma Yasası.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaaula-anpd",
+          "description": "Rehberler ve düzenlemelerle LGPD'den sorumlu Ulusal Veri Koruma Otoritesi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Kitap ve Kit",
+      "items": [
+        {
+          "name": "IA na sala de aula (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/iaaula-ia-na-sala-de-aula-livro",
+          "description": "O Novo Básico serisinin 7. cildi, mesleğin görevleri gerçek yapay zekayla ve her olgu kaynaklı olarak yapılmış.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula/kit",
+          "link": "https://go.mymarketing.click/iaaula-ia-na-sala-de-aula-o-kit-online",
+          "description": "Hazır istekler, kontrol listeleri ve kitabın kaynakları, sitede açık olarak.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
